@@ -9,6 +9,13 @@
     <link href="https://googleapis.com/css2?family=Shojumaru&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="catalogo.css">
     <title></title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Shojumaru&display=swap');
+body {
+    font-family: 'Shojumaru', system-ui, sans-serif;
+}
+    </style>
+
 </head>
  
 <body>
