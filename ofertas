@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="ofertas.css"
-    <title></title>
-</head>
-  <link rel="preconnect" href="https://googleapis.com">
+    <link rel="stylesheet" href="ofertas.css">
+     <link rel="preconnect" href="https://googleapis.com">
     <link rel="preconnect" href="https://gstatic.com" crossorigin>
     <link href="https://googleapis.com/css2?family=Shojumaru&display=swap" rel="stylesheet">
  <link rel="stylesheet" href="ofertas.css">
+    <title></title>
+</head>
+ 
 <body>
     <header>
         <h1>
