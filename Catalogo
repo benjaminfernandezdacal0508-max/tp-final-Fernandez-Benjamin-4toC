@@ -23,7 +23,15 @@ body {
         <h1>
                 supermercador el amancer
         </h1>
-        <img src="" alt="Logo del supermercado (dlagon chino)">
+        <img src="https://studycli.org/wp-content/uploads/2021/06/chinese-dragon-colorful.jpeg.webp" alt="Logo del supermercado (dlagon chino)">
+        <nav class="navbar">
+        <ul class="botonera">
+                <li><a href="Inicio" class="btn">inicio</a></li>
+                <li><a href="Ofertas" class="btn">ofertas</a></li>
+                <li><a href="Importados" class="btn">importados</a></li>
+                <li><a href="Catalogo" class="btn">catalago</a></li>
+            </ul>
+        </nav>
 
     </header>
     
