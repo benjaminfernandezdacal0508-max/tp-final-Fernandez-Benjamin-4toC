@@ -1,22 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Shojumaru&display=swap');
 body {
     font-family: 'Shojumaru', system-ui, sans-serif;
+    background-color: rgb(245, 180, 62);
+    color: #494646;
 }
-header{
+header {
+    background: rgb(183, 40, 46);
+    color: rgb(245, 180, 62);
+    padding: 20px;
 
 }
-h1{
+
+h1 {
+    color:rgb(245, 180, 62);
 
 }
-h2{
+
+h2 {
+    color:rgb(245, 180, 62);
 
 }
-nav{
 
+nav ul li {
+    background-color: rgb(183, 40, 46);
+    list-style:none;
+    background: ;
+    color:rgb(245, 180, 62);
+    padding: 10px;
+    border: #494646;
 }
-main{
 
+main {
+    background-color: rgb(245, 180, 62);
+    color: #494646;
+    padding 10px
 }
-section{
-    
+
+section {
+    background-color: rgb(183, 40, 46);
+    color: rgb(245, 180, 62);
+    padding: 10px;
+
 }
