@@ -24,8 +24,7 @@ h2 {
 nav ul li {
     background-color: rgb(183, 40, 46);
     list-style:none;
-    background: ;
-    color:rgb(245, 180, 62);
+    color: rgb(245, 180, 62);
     padding: 10px;
     border: #494646;
 }
@@ -33,12 +32,11 @@ nav ul li {
 main {
     background-color: rgb(245, 180, 62);
     color: #494646;
-    padding 10px
+    padding: 10px;
 }
 
 section {
     background-color: rgb(183, 40, 46);
     color: rgb(245, 180, 62);
     padding: 10px;
-
 }
